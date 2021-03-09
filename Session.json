@@ -1,0 +1,115 @@
+// LIST OF VISITED PAGES ON A GIVEN DATE
+[
+    {
+        "date"  : "2021-03-09",
+        "title" : "Thanks Coefficient Alpha, We'll Take it From Here",
+        "type"  : "tutorial",
+        "topic" : "statistics",
+        "url"   : "https://www.researchgate.net/publication/313852796_Thanks_Coefficient_Alpha_We'll_Take_it_From_Here"
+    },
+    {
+        "date"  : "2021-03-09",
+        "title" : "Five ways to calculate internal consistency",
+        "type"  : "tutorial",
+        "topic" : "statistics",
+        "url"   : "https://www.r-bloggers.com/2016/08/five-ways-to-calculate-internal-consistency/"
+    },
+    {
+        "date"  : "2021-03-09",
+        "title" : "Internal Consistency",
+        "type"  : "article",
+        "topic" : "statistics",
+        "url"   : "https://en.wikipedia.org/wiki/Internal_consistency"
+    },
+    {
+        "date"  : "2021-03-09",
+        "title" : "Confirmatory factor analysis",
+        "type"  : "article",
+        "topic" : "statistics",
+        "url"   : "https://en.wikipedia.org/wiki/Confirmatory_factor_analysis"
+    },
+    {
+        "date"  : "2021-03-09",
+        "title" : "Internal Consistency Reliability in Measurement: Aggregate and Multilevel Approaches",
+        "type"  : "article",
+        "topic" : "statistics",
+        "url"   : "https://digitalcommons.wayne.edu/cgi/viewcontent.cgi?article=2560&context=jmasm"
+    },
+    {
+        "date"  : "2021-03-09",
+        "title" : "A French translation of the Goldsmiths Musical Sophistication Index",
+        "type"  : "article",
+        "topic" : "music_perception",
+        "url"   : "https://www.tandfonline.com/doi/full/10.1080/09298215.2018.1499779"
+    },
+    {
+        "date"  : "2021-03-09",
+        "title" : "Assessing musical ability quickly and objectively",
+        "type"  : "article",
+        "topic" : "music_perception",
+        "url"   : "https://nyaspubs.onlinelibrary.wiley.com/doi/full/10.1111/nyas.13410"
+    },
+    {
+        "date"  : "2021-03-08",
+        "title" : "How to use Clickwrap for Your EULA",
+        "type"  : "article",
+        "topic" : "ethics",
+        "url"   : "https://www.termsfeed.com/blog/how-clickwrap-eula/"
+    },
+    {
+        "date"  : "2021-03-08",
+        "title" : "Cómo crear un iframe en HTML",
+        "type"  : "video",
+        "topic" : "html",
+        "url"   : "https://youtu.be/K3ljclbJ8QM"
+    },
+    {
+        "date"  : "2021-03-05",
+        "title" : "How to Parse URL in JavaScript: hostname, pathname, query, hash",
+        "type"  : "tutorial",
+        "topic" : "javascript",
+        "url"   : "https://youtu.be/K3ljclbJ8QM"
+    },
+    {
+        "date"  : "2021-03-05",
+        "title" : "JavaScript Tutorials for Beginners",
+        "type"  : "video",
+        "topic" : "javascript",
+        "url"   : "https://youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET"
+    },
+    {
+        "date"  : "2021-03-05",
+        "title" : "JSON Array to HTML Table with Javascript",
+        "type"  : "video",
+        "topic" : "javascript",
+        "url"   : "https://youtu.be/XmdOZ5NSqb8"
+    },
+    {
+        "date"  : "2021-03-05",
+        "title" : "JSON Array to HTML Table with Javascript",
+        "type"  : "repository",
+        "topic" : "javascript",
+        "url"   : "https://github.com/divanov11/json-html-table/blob/master/jsontable.html"
+    },
+    {
+        "date"  : "2021-03-05",
+        "title" : "Learn JSON in 10 Minutes",
+        "type"  : "video",
+        "topic" : "javascript",
+        "url"   : "https://youtu.be/iiADhChRriM"
+    },
+    {
+        "date"  : "2021-03-01",
+        "title" : "Learn Forms in 25 min",
+        "type"  : "video",
+        "topic" : "html",
+        "url"   : "https://www.youtube.com/watch?v=fNcJuPIZ2WE"
+    },
+    {
+        "date"  : "2021-03-01",
+        "title" : "Validate form data and submitting",
+        "type"  : "tutorial",
+        "topic" : "html",
+        "url"   : "http://www.talkerscode.com/webtricks/validate%20the%20form%20data%20before%20and%20after%20submitting%20the%20form.php"
+    }
+]
