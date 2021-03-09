@@ -1,34 +1,37 @@
-// ADD LINKS TO THE json DICTIONARY FOLLOWING ITS FORMAT
-var data = [
-    {
-        "date"  : "2021-03-01",
-        "title" : "Learn Forms in 25 min",
-        "type"  : "video",
-        "url"   : "https://www.youtube.com/watch?v=fNcJuPIZ2WE"
-    },
-    {
-        "date"  : "2021-03-01",
-        "title" : "Validate form data and submitting",
-        "type"  : "tutorial",
-        "url"   : "http://www.talkerscode.com/webtricks/validate%20the%20form%20data%20before%20and%20after%20submitting%20the%20form.php"
-    }
-]
 
 function loadData(){
     fetch("Session.json")
-        .then(function(resp){
-            return resp.json();
+        .then(function(response){
+            return response.json();
         })
         .then(function(data){
             buildTable(data);
-        });
-}
+            $(`#search-input`).on('keyup', function(){
+                var value         = $(this).val()
+                var filteredTable = searchTable(value, data)
+                buildTable(filteredTable)
+            })
 
-function parsePages(){
-    // Parse the content of visitedPages structure
-    var sessionLinks = document.getElementById("sessionLinks");
-    // console.log(data)
-    
+            $('th').on('click', function(){
+                var column = $(this).data('column')
+                var order  = $(this).data('order')
+                // var text   = $(this).html()
+                console.log(`Column ${column} was clicked. ${order}`)
+                // text = text.substring(0, text.length - 1);
+                
+                if (order == 'desc'){
+                   sortedTable = data.sort((a, b) => a[column] > b[column] ? 1 : -1)
+                   $(this).data("order","asc");
+                   // text += '&#9660'
+                }else{
+                   sortedTable = data.sort((a, b) => a[column] < b[column] ? 1 : -1)
+                   $(this).data("order","desc");
+                   // text += '&#9650'
+                }
+                // $(this).html(text)
+                buildTable(sortedTable)
+            })
+        });
 }
 
 function tidyData(row){
@@ -36,36 +39,44 @@ function tidyData(row){
     var rowDate  = row.date;
     var rowTitle = row.title;
     var rowType  = row.type;
-    var rowURL   = row.URL;
-    
-    // console.log(data)
-    
+    var rowTopic = row.topic;
+    var rowURL   = row.URL;    
 }
 
 function buildTable(data){
-    console.log('inside function')
-    console.log(data)
+    console.log('buildTable')
+    // console.log(data)
     var table = document.getElementById('sessionLinks')
 
+    table.innerHTML = '' // clear table
+
     for (var i = 0; i < data.length; i++){
+        // var colname = `name-${i}`
+        // var colage = `age-${i}`
+        // var colbirth = `birth-${i}`
+
         var row = `<tr>
                         <td>${data[i].date}</td>
                         <td>${data[i].title}</td>
                         <td>${data[i].type}</td>
-                        <td>${data[i].url}</td>
+                        <td>${data[i].topic}</td>
+                        <td><a href=${data[i].url}>url</a></td>
                   </tr>`
         table.innerHTML += row
-
     }
 }
 
-buildTable(data)
+function searchTable(value, data){
+    var filteredData = []
+    for(var i = 0; i < data.length; i++){
+        value = value.toLowerCase()
+        var topic = data[i].topic.toLowerCase()
 
-// $(document).ready(function(){
-//     $.getJSON("Seesion.json", function(data){
-//         console.log(data); // logs data
-//         console.log(data[0]); // logs data
-//     }).fail(function(){
-//         console.log("An error has occurred.");
-//     });
-// });
+        if(topic.includes(value)){
+            filteredData.push(data[i])
+        }
+    }
+    return filteredData
+}
+
+

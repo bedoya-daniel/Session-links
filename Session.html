@@ -9,23 +9,29 @@
     </title>
     <link rel="stylesheet" href="Session.css">
   </head>
-  <body>
+  <body onload="javascript:loadData()">
     <h1> Browsing Session </h1>
     <main class="content-horizontal-center content-vertical-center">
       <div class="w-m text-justify" id="mainBlock">
         <p>
-          Browsing by date
+          Search by topic
         </p>
         
-<!--         <div id="sessionLinks">
-        
-        </div> -->
+        <div class="row">
+          <div class="col">
+            <div class="card card-body">
+              <input id="search-input" class="form-control" type="text" name="search-input">
+            </div>
+          </div>
+        </div>
+
         <table class="table table-striped">
             <tr  class="bg-info">
-                <th>Date</th>
-                <th>Title</th>
-                <th>Type</th>
-                <th>URL</th>
+                <th data-column="date" data-order="desc">Date</th>
+                <th data-column="title" data-order="desc">Title</th>
+                <th data-column="type" data-order="desc">Type</th>
+                <th data-column="topic" data-order="desc">Topic</th>
+                <th data-column="url" data-order="desc">URL</th>
             </tr>
 
             <tbody id="sessionLinks">
@@ -37,6 +43,7 @@
     </main>
   </body>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-  <script type="text/javascript" src="Session.json"></script>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <!-- <script type="text/javascript" src="Session.json"></script> -->
   <script type="text/javascript" src="Session.js"></script>
 </html>
