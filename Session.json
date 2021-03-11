@@ -1,5 +1,33 @@
 [
     {
+        "date"  : "2021/03/11",
+        "title" : "Transcribing prosodic structure of spoken utterances with ToBI",
+        "type"  : "course",
+        "topic" : "phonetics",
+        "url"   : "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-911-transcribing-prosodic-structure-of-spoken-utterances-with-tobi-january-iap-2006/lecture-notes/"
+    },
+    {
+        "date"  : "2021/03/11",
+        "title" : "Ling 441 - Advanced Phonetics - Intonation + TOBI, part 3",
+        "type"  : "video",
+        "topic" : "phonetics",
+        "url"   : "https://youtu.be/k2d1bwSja1M?t=852"
+    },
+    {
+        "date"  : "2021/03/11",
+        "title" : "Ling 441 - Advanced Phonetics - Intonation + TOBI, part 2",
+        "type"  : "video",
+        "topic" : "phonetics",
+        "url"   : "https://youtu.be/8H9ybx_CsB4"
+    },
+    {
+        "date"  : "2021/03/11",
+        "title" : "Ling 441 - Advanced Phonetics - Intonation + TOBI, part 1",
+        "type"  : "video",
+        "topic" : "phonetics",
+        "url"   : "https://youtu.be/OZD1tk4-ywc?t=1826"
+    },    
+    {
         "date"  : "2021/03/09",
         "title" : "Thanks Coefficient Alpha, We'll Take it From Here",
         "type"  : "tutorial",
