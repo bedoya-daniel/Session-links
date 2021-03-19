@@ -1,5 +1,26 @@
 [
     {
+        "date"  : "2021/03/19",
+        "title" : "Javascript collect form data",
+        "type"  : "tutorial",
+        "topic" : "javascript",
+        "url"   : "https://www.codegrepper.com/code-examples/html/javascript+collect+form+data"
+    },
+    {
+        "date"  : "2021/03/19",
+        "title" : "Gain Structure Made Easy",
+        "type"  : "article",
+        "topic" : "sound_engineering",
+        "url"   : "https://www.prosoundtraining.com/2017/10/20/gain-structure-made-easy/"
+    },
+    {
+        "date"  : "2021/03/19",
+        "title" : "Color Hex Color Codes",
+        "type"  : "example",
+        "topic" : "design",
+        "url"   : "https://www.color-hex.com/"
+    },
+    {
         "date"  : "2021/03/11",
         "title" : "Transcribing prosodic structure of spoken utterances with ToBI",
         "type"  : "course",
