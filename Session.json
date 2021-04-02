@@ -1,5 +1,96 @@
 [
     {
+        "date"  : "2021/04/02",
+        "title" : "Prosodic Features of Speech",
+        "type"  : "video",
+        "topic" : "speech",
+        "url"   : "https://youtu.be/CQwWI5-rzH8"
+    },
+    {
+        "date"  : "2021/04/02",
+        "title" : "Prosody",
+        "type"  : "article",
+        "topic" : "speech",
+        "url"   : "https://en.wikipedia.org/wiki/Prosody_(linguistics)#Phonology"
+    },
+    {
+        "date"  : "2021/04/02",
+        "title" : "Chi 2021",
+        "type"  : "website",
+        "topic" : "conference",
+        "url"   : "https://chi2021.acm.org/"
+    },
+    {
+        "date"  : "2021/04/02",
+        "title" : "Sound Forest: Evaluation of an Accessible Multisensory Music Installation",
+        "type"  : "article",
+        "topic" : "evaluation",
+        "url"   : "https://dl.acm.org/doi/abs/10.1145/3290605.3300907"
+    },
+    {
+        "date"  : "2021/04/02",
+        "title" : "ToBI a Standard for labeling english prosody",
+        "type"  : "article",
+        "topic" : "speech prosody",
+        "url"   : "https://www.isca-speech.org/archive/archive_papers/icslp_1992/i92_0867.pdf"
+    },
+    {
+        "date"  : "2021/04/02",
+        "title" : "ToBI a Standard for labeling english prosody",
+        "type"  : "article",
+        "topic" : "speech prosody",
+        "url"   : "https://www.isca-speech.org/archive/archive_papers/icslp_1992/i92_0867.pdf"
+    },
+    {
+        "date"  : "2021/04/02",
+        "title" : "Design And Creation Of A Large-scale Database Of Structural Annotations",
+        "type"  : "article",
+        "topic" : "structure",
+        "url"   : "https://archives.ismir.net/ismir2011/paper/000099.pdf"
+    },
+    {
+        "date"  : "2021/04/02",
+        "title" : "Design And Creation Of A Large-scale Database Of Structural Annotations",
+        "type"  : "article",
+        "topic" : "structure",
+        "url"   : "https://archives.ismir.net/ismir2011/paper/000099.pdf"
+    },
+    {
+        "date"  : "2021/04/02",
+        "title" : "Guidelines for ToBI Labelling",
+        "type"  : "tutorial",
+        "topic" : "speech",
+        "url"   : "http://www.speech.cs.cmu.edu/tobi/ToBI.2.html"
+    },
+    {
+        "date"  : "2021/04/02",
+        "title" : "The Role of Expectation and Probabilistic Learning in Auditory Boundary Perception",
+        "type"  : "article",
+        "topic" : "music structure",
+        "url"   : "http://research.gold.ac.uk/id/eprint/5380/1/p6507.pdf"
+    },
+    {
+        "date"  : "2021/04/02",
+        "title" : "Subphrase",
+        "type"  : "course",
+        "topic" : "music structure",
+        "url"   : "http://musictheory.pugetsound.edu/mt21c/subphrase.html"
+    },
+    {
+        "date"  : "2021/04/02",
+        "title" : "Piano Rolls and Contemporary Player Pianos",
+        "type"  : "phd thesis",
+        "topic" : "music structure",
+        "url"   : "https://ses.library.usyd.edu.au/bitstream/handle/2123/16939/Piano%20Rolls.pdf?sequence=1&isAllowed=y"
+    },
+    {
+        "date"  : "2021/04/02",
+        "title" : "SUPRA Digitizing the Stanford University Piano Roll Archive",
+        "type"  : "article",
+        "topic" : "music structure",
+        "url"   : "http://archives.ismir.net/ismir2019/paper/000062.pdf"
+    },
+    {
         "date"  : "2021/03/19",
         "title" : "Javascript collect form data",
         "type"  : "tutorial",
