@@ -1,5 +1,26 @@
 [
     {
+        "date"  : "2021/04/30",
+        "title" : "What is musical prosody (connectedpapers)",
+        "type"  : "connectedpapers",
+        "topic" : "prosody",
+        "url"   : "https://www.connectedpapers.com/main/22467edb7f426ed667f010a3a41741dafe1c9b4e/What-Is-Musical-Prosody/graph"
+    },
+    {
+        "date"  : "2021/04/30",
+        "title" : "Some sounds of my phonological and musical experiments (Schreuder)",
+        "type"  : "website",
+        "topic" : "prosody",
+        "url"   : "http://home.planet.nl/~schre537/sounds.htm"
+    },
+    {
+        "date"  : "2021/04/30",
+        "title" : "Julia Hirschberg",
+        "type"  : "website",
+        "topic" : "computer science",
+        "url"   : "http://www.cs.columbia.edu/~julia/"
+    },
+    {
         "date"  : "2021/04/02",
         "title" : "Prosodic Features of Speech",
         "type"  : "video",
