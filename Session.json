@@ -1,5 +1,75 @@
 [
     {
+        "date"  : "2021/07/23",
+        "title" : "4 Things to Put on Your Website",
+        "type"  : "article",
+        "topic" : "html",
+        "url"   : "https://www.orbitmedia.com/blog/things-to-put-on-your-website/"
+    },
+    {
+        "date"  : "2021/07/23",
+        "title" : "Figma to HTML: Code Up a Single-Page Design",
+        "type"  : "tutorial",
+        "topic" : "html",
+        "url"   : "https://webdesign.tutsplus.com/courses/figma-to-html-code-up-a-single-page-design/lessons/create-the-top-header"
+    },
+    {
+        "date"  : "2021/05/18",
+        "title" : "Demand characteristics",
+        "type"  : "article",
+        "topic" : "cognitive psychology",
+        "url"   : "https://en.wikipedia.org/wiki/Demand_characteristics"
+    },
+    {
+        "date"  : "2021/05/18",
+        "title" : "Observer-expectancy effect",
+        "type"  : "article",
+        "topic" : "cognitive psychology",
+        "url"   : "https://en.wikipedia.org/wiki/Observer-expectancy_effect"
+    },
+    {
+        "date"  : "2021/05/18",
+        "title" : "Pygmalion effect",
+        "type"  : "article",
+        "topic" : "cognitive psychology",
+        "url"   : "https://en.wikipedia.org/wiki/Pygmalion_effect"
+    },
+    {
+        "date"  : "2021/05/18",
+        "title" : "List of cognitive biases",
+        "type"  : "article",
+        "topic" : "cognitive psychology",
+        "url"   : "https://en.wikipedia.org/wiki/List_of_cognitive_biases"
+    },
+    {
+        "date"  : "2021/05/18",
+        "title" : "Bias in Psychological Research",
+        "type"  : "course",
+        "topic" : "cognitive psychology",
+        "url"   : "https://courses.lumenlearning.com/boundless-psychology/chapter/bias-in-psychological-research/"
+    },
+    {
+        "date"  : "2021/05/12",
+        "title" : "5 Ways To Remove A Background with GIMP",
+        "type"  : "video tutorial",
+        "topic" : "gimp",
+        "url"   : "https://www.youtube.com/watch?v=lOzSiOIipSM"
+    },
+    {
+        "date"  : "2021/05/12",
+        "title" : "Tonal Pitch Space (Amazon ebook)",
+        "type"  : "book",
+        "topic" : "music structure",
+        "url"   : "https://www.amazon.fr/Tonal-Pitch-Space-Fred-Lerdahl-ebook/dp/B0061ADHQM"
+    },
+    {
+        "date"  : "2021/05/12",
+        "title" : "Tonal Pitch Space (Google books)",
+        "type"  : "book",
+        "topic" : "music structure",
+        "url"   : "https://books.google.fr/books?id=6bxFrgVMDpsC&pg=PR3"
+    },
+    {
         "date"  : "2021/04/30",
         "title" : "What is musical prosody (connectedpapers)",
         "type"  : "connectedpapers",
