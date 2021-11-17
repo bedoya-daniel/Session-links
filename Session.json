@@ -1,5 +1,26 @@
 [
     {
+        "date"  : "2021/11/17",
+        "title" : "ELAN - The language archive",
+        "type"  : "website",
+        "topic" : "Annotations",
+        "url"   : "https://archive.mpi.nl/tla/elan"
+    },    
+    {
+        "date"  : "2021/11/17",
+        "title" : "Measurements on the Expression of Emotion in Music - C. E. Seashore",
+        "type"  : "article",
+        "topic" : "music_perception",
+        "url"   : "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1085412/pdf/pnas01882-0023.pdf"
+    },
+    {
+        "date"  : "2021/11/17",
+        "title" : "Seashore, Carl Emil - Biography",
+        "type"  : "biography",
+        "topic" : "music",
+        "url"   : "http://uipress.lib.uiowa.edu/bdi/DetailsPage.aspx?id=332"
+    },
+    {
         "date"  : "2021/07/23",
         "title" : "4 Things to Put on Your Website",
         "type"  : "article",
