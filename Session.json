@@ -1,11 +1,88 @@
-[
+[    
+    {
+        "date"  : "2021/12/08",
+        "title" : "Automatic Analysis and Influence of Hierarchical Structure on Melody, Rhythm and Harmony in Popular Music",
+        "type"  : "presentation",
+        "topic" : "structure",
+        "url"   : "https://arxiv.org/pdf/2010.07518.pdf"
+    },
+    {
+        "date"  : "2021/12/08",
+        "title" : "Is Music Structure Annotation Multi-Dimensional?",
+        "type"  : "presentation",
+        "topic" : "structure",
+        "url"   : "http://recherche.ircam.fr/anasyn/peeters/ARTICLES/Peeters_2009_LSAS_annotation_ppt.pdf"
+    },
+    {
+        "date"  : "2021/12/08",
+        "title" : "Semiotic structure labeling of music pieces",
+        "type"  : "article",
+        "topic" : "structure",
+        "url"   : "https://hal.inria.fr/hal-00758648/"
+    },
+    {
+        "date"  : "2021/11/29",
+        "title" : "Formas en el tiempo - Maria del Carmen Aguilar",
+        "type"  : "book",
+        "topic" : "structure",
+        "url"   : "https://www.mariaguilar.com/libro.php?id=tiempo"
+    },
+    {
+        "date"  : "2021/11/29",
+        "title" : "Aprender a escuchar - Maria del Carmen Aguilar",
+        "type"  : "book",
+        "topic" : "structure",
+        "url"   : "https://www.mariaguilar.com/libro.php?id=aprender"
+    },
+    {
+        "date"  : "2021/11/29",
+        "title" : "Estructuras de la sintaxis musical",
+        "type"  : "article",
+        "topic" : "structure",
+        "url"   : "https://www.academia.edu/download/32088861/Aguilar__Estructuras_de_la_Sintaxis_Musical.pdf"
+    },
+    {
+        "date"  : "2021/11/29",
+        "title" : "GitHub Telemeta",
+        "type"  : "website",
+        "topic" : "annotation",
+        "url"   : "https://github.com/Parisson/Telemeta"
+    },
+    {
+        "date"  : "2021/11/29",
+        "title" : "Telemeta",
+        "type"  : "website",
+        "topic" : "annotation",
+        "url"   : "http://telemeta.org/"
+    },
+    {
+        "date"  : "2021/11/29",
+        "title" : "El uso del open source en la preservación digital de contenidos sonoros: Telemeta",
+        "type"  : "video",
+        "topic" : "annotation",
+        "url"   : "https://youtu.be/ag-EdkxlbTE"
+    },
+    {
+        "date"  : "2021/11/23",
+        "title" : "Répertoire International de Littérature Musicale",
+        "type"  : "website",
+        "topic" : "music_vocabulary",
+        "url"   : "https://www.rilm.org/"
+    },
+    {
+        "date"  : "2021/11/23",
+        "title" : "Library of Congress Medium of Performance Thesaurus for Music PDF Files",
+        "type"  : "website",
+        "topic" : "music_vocabulary",
+        "url"   : "https://www.loc.gov/aba/publications/FreeLCMPT/freelcmpt.html#MPT"
+    },
     {
         "date"  : "2021/11/17",
         "title" : "ELAN - The language archive",
         "type"  : "website",
-        "topic" : "Annotations",
+        "topic" : "annotation",
         "url"   : "https://archive.mpi.nl/tla/elan"
-    },    
+    },  
     {
         "date"  : "2021/11/17",
         "title" : "Measurements on the Expression of Emotion in Music - C. E. Seashore",
