@@ -1,4 +1,18 @@
-[    
+[
+    {
+        "date"  : "2021/12/17",
+        "title" : "How to build with the Notion API (Block × Block)",
+        "type"  : "video",
+        "topic" : "code-examples",
+        "url"   : "https://youtu.be/jiVDZZUSRfU"
+    },
+    {
+        "date"  : "2021/12/17",
+        "title" : "À la découverte de l'API de Notion",
+        "type"  : "video",
+        "topic" : "code-examples",
+        "url"   : "https://www.youtube.com/watch?v=lqNTtwaxhUc"
+    },
     {
         "date"  : "2021/12/08",
         "title" : "Automatic Analysis and Influence of Hierarchical Structure on Melody, Rhythm and Harmony in Popular Music",
