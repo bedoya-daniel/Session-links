@@ -1,5 +1,47 @@
 [
     {
+        "date"  : "2022/02/09",
+        "title" : "Music and Discourse: Toward a Semiology of Music",
+        "type"  : "book",
+        "topic" : "music_vocabulary",
+        "url"   : "https://books.google.fr/books?&id=RmAji7JQnAUC&oi=fnd"
+    },
+    {
+        "date"  : "2022/02/09",
+        "title" : "Music and Discourse: Toward a Semiology of Music",
+        "type"  : "connectedpapers",
+        "topic" : "music_vocabulary",
+        "url"   : "https://www.connectedpapers.com/main/bbe9f2a4f31a2b0d41fab228205036c17417e339/"
+    },
+    {
+        "date"  : "2022/02/09",
+        "title" : "Nicolas Ruwet, Langage, musique, poésie [compte-rendu]",
+        "type"  : "article",
+        "topic" : "musicology",
+        "url"   : "https://www.persee.fr/doc/ahess_0395-2649_1974_num_29_3_293507_t1_0764_0000_002"
+    },
+    {
+        "date"  : "2022/02/09",
+        "title" : "Ce Que Je Dois À François Delalande",
+        "type"  : "article",
+        "topic" : "structure",
+        "url"   : "https://www.musicheria.net/attachments/article/5345/Jean-Jacques%20Nattiez.pdf"
+    },
+    {
+        "date"  : "2022/02/09",
+        "title" : "Ethnomusicologie et significations musicales",
+        "type"  : "article",
+        "topic" : "musicology",
+        "url"   : "https://journals.openedition.org/lhomme/24859#tocto2n1"
+    },
+    {
+        "date"  : "2022/02/09",
+        "title" : "A practical approach to the study of form in music",
+        "type"  : "book",
+        "topic" : "structure",
+        "url"   : "https://archive.org/details/practicalapproac0000spen/mode/2up"
+    },
+    {
         "date"  : "2021/12/17",
         "title" : "How to build with the Notion API (Block × Block)",
         "type"  : "video",
